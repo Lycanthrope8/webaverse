@@ -14,7 +14,7 @@ export const charactersBaseUrl = `/characters/`;
 export const defaultCharacterName = 'scillia.npc';
 
 // voice packs
-export const voicePacksUrl = `https://webaverse.github.io/voicepacks/all_packs.json`;
+export const voicePacksUrl = `https://raw.githubusercontent.com/webaverse/tiktalknet/main/model_lists/all_models.json`;
 
 // voice endpoints
 export const voiceEndpointBaseUrl = `https://voice-cw.webaverse.com/tts`;
